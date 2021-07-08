@@ -4,7 +4,7 @@
 ##### tool per Windows che ###rmette di semplificare molte azioni
 
 ## Installazione
-+ `gitclone`
++ `git clone`
 + Avvia l'app
 
 ## Note
