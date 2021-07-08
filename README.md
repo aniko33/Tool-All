@@ -5,9 +5,7 @@
 
 ## Installazione
 + `gitclone`
-<ul></ul>
-<li>Avvia l'app</li>
-</ul>
++ Avvia l'app
 
 ## Note
 ### l'Applicazione non ne un virus è causato dai commandi inocui
