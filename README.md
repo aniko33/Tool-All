@@ -1,2 +1,13 @@
 # Tool-All
-Tool per Windows che permette di semplificare molte azioni
+
+### Descrizione
+##### tool per Windows che ###rmette di semplificare molte azioni
+
+## Installazione
++ `gitclone`
+<ul></ul>
+<li>Avvia l'app</li>
+</ul>
+
+## Note
+### l'Applicazione non ne un virus è causato dai commandi inocui
