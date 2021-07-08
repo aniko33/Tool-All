@@ -1,7 +1,7 @@
 # Tool-All
 
 ### Descrizione
-##### tool per Windows che ###rmette di semplificare molte azioni
+##### Tool per Windows che per mette di semplificare molte azioni
 
 ## Installazione
 + `git clone`
