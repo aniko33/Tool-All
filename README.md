@@ -4,7 +4,7 @@
 ##### Tool per Windows che per mette di semplificare molte azioni
 
 ## Installazione
-+ `git clone`
++ `git clone https://github.com/aniko33/Tool-All.git`
 + Avvia l'app
 
 ## Note
