@@ -8,4 +8,4 @@
 + Avvia l'app
 
 ## Note
-### l'Applicazione non ne un virus è causato dai commandi inocui
+### l'Applicazione non ne un virus è causato dalla pagina RCC
