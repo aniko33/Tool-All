@@ -9,3 +9,5 @@
 
 ## Note
 ### l'Applicazione non ne un virus è causato dalla pagina RCC
+# Contatti
+## Aniko#4413 (Discord)
